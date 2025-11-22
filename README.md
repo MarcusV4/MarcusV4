@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusV4&show_icons=true&theme=radical)
+![Marcus GitHub stats](https://github-readme-stats-zeta-three-37.vercel.app/api?username=MarcusV4&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusV4&layout=donut)](https://github.com/MarcusV4/github-readme-stats&locale=pt-br)
 
