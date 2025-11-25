@@ -10,7 +10,8 @@
 ![Marcus GitHub stats](https://github-readme-stats-zeta-three-37.vercel.app/api?username=MarcusV4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusV4&layout=donut)](https://github.com/MarcusV4/github-readme-stats&locale=pt-br)
+![Top Langs](https://github-readme-stats-zeta-three-37.vercel.app/api/top-langs/?username=MarcusV4&layout=donut)
+
 
 ### Para entrar em contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcusv4)
