@@ -7,10 +7,10 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Marcus GitHub stats](https://github-readme-stats-zeta-three-37.vercel.app/api?username=MarcusV4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=10)
+![Marcus GitHub stats](https://github-readme-stats-zeta-three-37.vercel.app/api?username=MarcusV4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=7200)
 
 
-![Top Langs](https://github-readme-stats-zeta-three-37.vercel.app/api/top-langs/?username=MarcusV4&layout=donut&cache_seconds=10)
+![Top Langs](https://github-readme-stats-zeta-three-37.vercel.app/api/top-langs/?username=MarcusV4&layout=donut&cache_seconds=7200)
 
 
 ### Para entrar em contato:
